@@ -10,3 +10,5 @@ Movie site display from TMDB API
 ```sh
 npm i
 ```
+
+then, change your `.env.example` to `.env`
